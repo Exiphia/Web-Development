@@ -8,13 +8,13 @@ header {
 	padding: 15px 15px 0px 15px;
 }
 
-ul {
+nav ul {
 	margin: 0;
 	padding: 0 0 0 15px;
 	display: inline;
 }
 
-ul li {
+nav ul li {
 	background: black;
 	border-radius: 5px;
 	color: white;
