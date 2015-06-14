@@ -1,0 +1,24 @@
+body {
+	margin: 0;
+}
+
+header {
+	background: #999;
+	color: white;
+	padding: 15px 15px 0px 15px;
+}
+
+ul {
+	margin: 0;
+	padding: 0 0 0 15px;
+	display: inline;
+}
+
+ul li {
+	background: black;
+	border-radius: 5px;
+	color: white;
+	display: inline-block;
+	list-style-type: none;
+	padding: 5px 15px;
+}
